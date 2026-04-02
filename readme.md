@@ -1,6 +1,6 @@
 # 🌈 Mood-Based Chatbot (Emotional AI Buddy)
 
-A simple, interactive chatbot built with **Streamlit** and **Google Gemini API**.  
+A Simple, interactive chatbot built with **Streamlit** and **Google Gemini API**.  
 The bot adapts its tone and personality according to your selected mood — Happy, Sad, Calm, Stressed, Angry, or Excited.
 
 ## Features
